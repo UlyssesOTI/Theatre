@@ -1,0 +1,41 @@
+Person | (id = 0) | Name = Gulian    | lName = Anderson | age = 27
+	----------------------------------------------------------
+	 Animal | (id =  0)| name = Thomas  | spicies = HUMSTER
+	 Animal | (id =  1)| name = Creature| spicies = CAT    
+------------------------------------------------------------------
+Person | (id = 1) | Name = Elizabeth | lName = Hewson   | age = 23
+	----------------------------------------------------------
+	 Animal | (id =  2)| name = Catty   | spicies = CAT    
+------------------------------------------------------------------
+Person | (id = 2) | Name = Gulian    | lName = Anderson | age = 18
+	----------------------------------------------------------
+	 Animal | (id =  3)| name = Catty   | spicies = HUMSTER
+	 Animal | (id =  4)| name = Fluffy  | spicies = DOG    
+	 Animal | (id =  5)| name = Thomas  | spicies = HUMSTER
+------------------------------------------------------------------
+Person | (id = 3) | Name = Poul      | lName = Portman  | age = 23
+	----------------------------------------------------------
+	 Animal | (id =  6)| name = Lilly   | spicies = FISH   
+	 Animal | (id =  7)| name = Petty   | spicies = DOG    
+	 Animal | (id =  8)| name = Creature| spicies = FISH   
+------------------------------------------------------------------
+Person | (id = 4) | Name = Poul      | lName = Peterson | age = 29
+	----------------------------------------------------------
+	 Animal | (id =  9)| name = Bethoven| spicies = DOG    
+	 Animal | (id = 10)| name = Thomas  | spicies = HUMSTER
+------------------------------------------------------------------
+Person | (id = 15) | Name = Peter     | lName = Portman  | age = 14
+	----------------------------------------------------------
+	 Animal | (id = 11)| name = Fluffy  | spicies = HUMSTER
+------------------------------------------------------------------
+Person | (id = 6) | Name = Ivan      | lName = Hewson   | age = 25
+	----------------------------------------------------------
+	 Animal | (id = 12)| name = Creature| spicies = HUMSTER
+------------------------------------------------------------------
+Person | (id = 7) | Name = Mark      | lName = Anderson | age = 11
+	----------------------------------------------------------
+	 Animal | (id = 13)| name = Fluffy  | spicies = DOG    
+	 Animal | (id = 14)| name = Bethoven| spicies = HUMSTER
+	 Animal | (id = 15)| name = Petty   | spicies = HUMSTER
+------------------------------------------------------------------
+Free indexes: []
