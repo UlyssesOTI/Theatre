@@ -7,6 +7,7 @@ public class Animal implements Comparable<Animal> {
 	private static int spacesid=0;
 	private static int spacesName=0;
 	private static int spacesAnimaSpicies=0;
+	private static int newWar;
 	
 	private static int lastid=0;
 	private static Set<Integer> freeIndexes = new HashSet<Integer>();
